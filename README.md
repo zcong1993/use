@@ -4,11 +4,11 @@
 
 ## 软件
 
-- Raycast - Alfred 替代 https://www.raycast.com
-- Snipaste - 截图 https://zh.snipaste.com
-- DeepL - 翻译 https://www.deepl.com
+- [Raycast](https://www.raycast.com) - Alfred 替代
+- [Snipaste](https://zh.snipaste.com) - 截图
+- [DeepL](https://www.deepl.com) - 翻译
 - Spark - 邮件
-- Rectangle - 窗口管理 https://rectangleapp.com
+- [Rectangle](https://rectangleapp.com) - 窗口管理
 - Stats - iStats menu 替代, https://github.com/exelban/stats
 - Hidden Bar - mac 顶部图标折叠, https://github.com/dwarvesf/hidden
 - Warp - iTerm2 替代 https://www.warp.dev
