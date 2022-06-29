@@ -27,7 +27,7 @@
 ## 命令行工具
 
 - [zsh](https://zsh.org) - shell
-- [starship](https://starship.rs) - command line prompt
+- [starship](https://starship.rs) - shell prompt
 - [zinit](https://github.com/zdharma-continuum/zinit) - zsh 插件管理
 - [fd](https://github.com/sharkdp/fd) - find alternative
 - [bat](https://github.com/sharkdp/bat) - cat alternative
