@@ -12,6 +12,8 @@
 - [Stats](https://github.com/exelban/stats) - iStats menu 替代
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - mac 顶部图标折叠
 - [Warp](https://www.warp.dev) - iTerm2 替代
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL GUI
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - hosts 管理切换
 
 ## 命令行工具
 
@@ -40,6 +42,8 @@ brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-2. 编辑器字体 - [zcong1993/fonts](https://github.com/zcong1993/fonts)
+2. 编辑器字体 - [Input Mono](https://input.djr.com)
 
-`'Input Mono', 'OperatorMono-Book', 'OperatorMono-XLight', 'OperatorMonoLig-Book', 'RobotoMono-Thin', Menlo, Monaco, 'Courier New', monospace`
+我的字体仓库: [zcong1993/fonts](https://github.com/zcong1993/fonts)
+
+vscode 字体设置: `'Input Mono', 'OperatorMono-Book', 'OperatorMono-XLight', 'OperatorMonoLig-Book', 'RobotoMono-Thin', Menlo, Monaco, 'Courier New', monospace`
