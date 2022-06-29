@@ -15,6 +15,12 @@
 
 ## 命令行工具
 
+- starship - https://starship.rs
+- zinit - https://github.com/zdharma-continuum/zinit
+- direnv - 自动载入 .envrc 环境变量 https://github.com/direnv/direnv
+- fzf - 文件名模糊搜索 https://github.com/junegunn/fzf
+- fd - find alternative https://github.com/sharkdp/fd
+
 ## 字体
 
 1. 命令行字体 - Hack Nerd Font Mono https://github.com/ryanoasis/nerd-fonts
