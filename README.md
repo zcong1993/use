@@ -20,6 +20,7 @@
 ### 编辑器
 
 - [Goland](https://www.jetbrains.com/go) - go 语言
+  - Theme: [Rosé Pine Moon](https://github.com/jmorjsm/rose-pine-intellij)
 - [VS Code](https://code.visualstudio.com) - 其他语言
   - Settings & Extensions: [antfu/vscode-settings](https://github.com/antfu/vscode-settings)
 
@@ -51,7 +52,7 @@
 ### 编程语言相关
 
 - [g](https://github.com/voidint/g) - go 多版本管理
-- [air](https://github.com/cosmtrek/air) - go 语言 live reload 
+- [air](https://github.com/cosmtrek/air) - go 语言 live reload
 - [fnm](https://github.com/Schniz/fnm) - node 多版本管理
 
 ## 字体
