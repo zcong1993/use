@@ -1,6 +1,6 @@
 # Use
 
-我使用的一些软件.
+我使用的一些软件工具.
 
 ## 软件
 
@@ -69,3 +69,7 @@ brew install --cask font-hack-nerd-font
 我的字体仓库: [zcong1993/fonts](https://github.com/zcong1993/fonts)
 
 vscode 字体设置: `'Input Mono', 'OperatorMono-Book', 'OperatorMono-XLight', 'OperatorMonoLig-Book', 'RobotoMono-Thin', Menlo, Monaco, 'Courier New', monospace`
+
+## Thanks
+
+- [antfu/use](https://github.com/antfu/use)
