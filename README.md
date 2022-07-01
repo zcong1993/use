@@ -32,12 +32,13 @@
 - [fd](https://github.com/sharkdp/fd) - find alternative
 - [bat](https://github.com/sharkdp/bat) - cat alternative
 - [lsd](https://github.com/Peltoche/lsd) - ls alternative
+- [taskfile](https://taskfile.dev) - makefile alternative
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - 文本搜索, grep 加强版
 - [direnv](https://github.com/direnv/direnv) - 自动载入 .envrc 环境变量
 - [fzf](https://github.com/junegunn/fzf) - 文件名模糊搜索
 - [mcfly](https://github.com/cantino/mcfly) - shell history 智能搜索
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - z 智能目录跳转
 - [delta](https://github.com/dandavison/delta) - git diff 高亮工具
-- [taskfile](https://taskfile.dev) - makefile alternative
 - [grpcui](https://github.com/fullstorydev/grpcui) - grpc 本地调试 web UI
 
 ## 在线工具
