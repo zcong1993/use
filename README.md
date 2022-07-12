@@ -40,6 +40,7 @@
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - z 智能目录跳转
 - [delta](https://github.com/dandavison/delta) - git diff 高亮工具
 - [grpcui](https://github.com/fullstorydev/grpcui) - grpc 本地调试 web UI
+- [tokei](https://github.com/XAMPPRocky/tokei) - 统计代码行数信息
 
 ## 在线工具
 
