@@ -7,11 +7,11 @@
 - [Raycast](https://www.raycast.com) - Alfred 替代
 - [Snipaste](https://zh.snipaste.com) - 截图
 - [DeepL](https://www.deepl.com) - 翻译
+- [Bob](https://bobtranslate.com) - mac 平台翻译和 OCR 软件(支持插件)
 - [Spark](https://sparkmailapp.com) - 邮件
 - [Rectangle](https://rectangleapp.com) - 窗口管理
 - [Stats](https://github.com/exelban/stats) - iStats menu 替代
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - mac 顶部图标折叠
-- [Warp](https://www.warp.dev) - iTerm2 替代
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL GUI
 - [Medis](https://github.com/luin/medis) - Redis GUI
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - hosts 管理切换
@@ -26,6 +26,7 @@
 
 ## 命令行工具
 
+- [Warp](https://www.warp.dev) - iTerm2 替代, 现代化的命令行软件
 - [zsh](https://zsh.org) - shell
 - [starship](https://starship.rs) - shell prompt
 - [zinit](https://github.com/zdharma-continuum/zinit) - zsh 插件管理
