@@ -15,7 +15,7 @@
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL GUI
 - [Medis](https://github.com/luin/medis) - Redis GUI
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - hosts 管理切换
-- [Docker](https://www.docker.com) - 本地容器运行时
+- [OrbStack](https://orbstack.dev) - 本地容器运行时, Docker Desktop 替代
 
 ### 编辑器
 
