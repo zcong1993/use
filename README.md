@@ -8,6 +8,7 @@
 - [Snipaste](https://zh.snipaste.com) - 截图
 - [DeepL](https://www.deepl.com) - 翻译
 - [Bob](https://bobtranslate.com) - mac 平台翻译和 OCR 软件(支持插件)
+  - [Easydict](https://github.com/tisfeng/Easydict) - Bob 竞品，不依赖apple store
 - [Spark](https://sparkmailapp.com) - 邮件
 - [Rectangle](https://rectangleapp.com) - 窗口管理
 - [Stats](https://github.com/exelban/stats) - iStats menu 替代
