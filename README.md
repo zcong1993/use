@@ -17,6 +17,8 @@
 - [Medis](https://github.com/luin/medis) - Redis GUI
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - hosts 管理切换
 - [OrbStack](https://orbstack.dev) - 本地容器运行时, Docker Desktop 替代
+- [Chatwise](https://chatwise.app) - 完美的 AI 聊天助手
+- [Bitwarden](https://bitwarden.com) - 密码管理器
 
 ### 编辑器
 
@@ -28,9 +30,9 @@
 ## 命令行工具
 
 - [Warp](https://www.warp.dev) - iTerm2 替代, 现代化的命令行软件
-- [zsh](https://zsh.org) - shell
+<!-- - [zsh](https://zsh.org) - shell -->
 - [starship](https://starship.rs) - shell prompt
-- [zinit](https://github.com/zdharma-continuum/zinit) - zsh 插件管理
+<!-- - [zinit](https://github.com/zdharma-continuum/zinit) - zsh 插件管理 -->
 - [fd](https://github.com/sharkdp/fd) - find alternative
 - [bat](https://github.com/sharkdp/bat) - cat alternative
 - [lsd](https://github.com/Peltoche/lsd) - ls alternative
@@ -61,18 +63,17 @@
 
 ## 字体
 
-1. 命令行字体 - [Hack Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts)
+1. [Maple Mono](https://github.com/subframe7536/maple-font)
+1. [Hack Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-2. 编辑器字体 - [Input Mono](https://input.djr.com)
+<!-- 我的字体仓库: [zcong1993/fonts](https://github.com/zcong1993/fonts) -->
 
-我的字体仓库: [zcong1993/fonts](https://github.com/zcong1993/fonts)
-
-vscode 字体设置: `'Input Mono', 'OperatorMono-Book', 'OperatorMono-XLight', 'OperatorMonoLig-Book', 'RobotoMono-Thin', Menlo, Monaco, 'Courier New', monospace`
+<!-- vscode 字体设置: `'Input Mono', 'OperatorMono-Book', 'OperatorMono-XLight', 'OperatorMonoLig-Book', 'RobotoMono-Thin', Menlo, Monaco, 'Courier New', monospace` -->
 
 ## Thanks
 
