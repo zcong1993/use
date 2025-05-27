@@ -12,7 +12,8 @@
 - [Spark](https://sparkmailapp.com) - 邮件
 - [Rectangle](https://rectangleapp.com) - 窗口管理
 - [Stats](https://github.com/exelban/stats) - iStats menu 替代
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - mac 顶部图标折叠
+- [Ice](https://github.com/jordanbaird/Ice) - mac 顶部图标折叠
+  - [Hidden Bar](https://github.com/dwarvesf/hidden) - 同类产品，以前使用过
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL GUI
 - [Medis](https://github.com/luin/medis) - Redis GUI
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - hosts 管理切换
